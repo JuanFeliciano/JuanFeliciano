@@ -1,10 +1,10 @@
 ### Hi there, I'm Juan 👋
 
-- 🔭 Currently working at Movtech Systems
-- 🌱 I’m learning JavaScript, TypesScript and C#
+- ⚙️ Currently working at Movtech Systems
+- 🧠 I’m learning JavaScript, TypesScript and C#
 - 💬 18 years
 - 📫 How to reach me: juanfeliciasantos@gmail.com
-- ⚡ “Correct a wise person and you will make him wiser, correct an ignorant person and you will make him your enemy.”
+- 🕊️ “Correct a wise person and you will make him wiser, correct an ignorant person and you will make him your enemy.”
 <br>
 
   ### 🛠️ GitHub Stats
@@ -15,7 +15,3 @@
   
 <div>
   
-<div> 
-  <a href="https://www.instagram.com/juan.flc/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:juanfeliciasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/juan-feliciano-36081726b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
