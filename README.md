@@ -1,4 +1,4 @@
-### Hi there, I'm Círico 👋
+### Hi there, I'm Juan 👋
 
 - 🔭 Currently working at Movtech Systems
 - 🌱 I’m learning JavaScript, TypesScript and C#
