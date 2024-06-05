@@ -6,7 +6,7 @@
 - 📫 How to reach me: juanfeliciasantos@gmail.com
 - 🕊️ “Correct a wise person and you will make him wiser, correct an ignorant person and you will make him your enemy.”
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanFeliciano&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanFeliciano&layout=compact&langs_count=6&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ciricoo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciricoo&layout=compact&langs_count=6&theme=algolia"/>
 </div>
   
