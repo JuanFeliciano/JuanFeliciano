@@ -1,6 +1,6 @@
 ### Hi there, I'm Juan 👋
 
-- ⚙️ Currently working at Movtech Systems
+- ⚙️ Currently looking for internship
 - 🧠 I’m learning Angular, TypeScript and C#
 - 📫 How to reach me: juanfeliciasantos@gmail.com
 - 🕊️ “Correct a wise person and you will make him wiser, correct an ignorant person and you will make him your enemy.”
